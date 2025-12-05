@@ -121,9 +121,7 @@ Word found in file2.txt (1 time)
 - Demonstrates understanding of hashing  
 - Shows linked list collision handling  
 - Uses memory management and file parsing  
-- Reflects strong modular design in C  
-- Excellent for GitHub, placement, and interviews  
-
+- Reflects strong modular design in C   
 ---
 
 ## 👤 Author
